@@ -8,3 +8,5 @@
 ## Install them by following Command at terminal,
 
 - ```pip install flask flask_httpauth PyJWT```
+or
+- ```pip install -r requirements.txt (Python 2) or pip3 install -r requirements.txt (Python 3)```
