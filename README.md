@@ -9,3 +9,7 @@
 
 - ```pip install flask flask_httpauth PyJWT``` or ```pip3 install flask flask_httpauth PyJWT```
 - ```pip install -r requirements.txt (Python 2)``` or ```pip3 install -r requirements.txt (Python 3)```
+
+## Execute the File
+
+- ```python app.py``` or ```python3 app.py```
